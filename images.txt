@@ -1,4 +1,1 @@
---platform=linux/arm/v7 1247004718/phantun:armv7
---platform=linux/arm64/v8 1247004718/phantun:arm64v8
---platform=linux/amd64 1247004718/phantun:amd64
-1247004718/phantun:latest
+1247004718/phantun
