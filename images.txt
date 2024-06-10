@@ -1,4 +1,2 @@
-1247004718/phantun:armv7
-1247004718/phantun:arm64v8
-1247004718/phantun:amd64
-1247004718/phantun:latest
+
+1247004718/phantun
